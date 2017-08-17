@@ -1,0 +1,6 @@
+# git init
+# create readme.md
+# git add README.md
+# git commit -m "first commit"
+# git remote add origin https://github.com/amit63731/polls.git
+# git push -u origin master
